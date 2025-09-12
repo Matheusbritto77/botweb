@@ -1,0 +1,2 @@
+seleniumbase>=4.41.5
+pyautogui>=0.9.54
