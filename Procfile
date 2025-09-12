@@ -1,1 +1,1 @@
-web: python cloudflare_undetected.py
+web: xvfb-run -a python cloudflare_undetected.py
